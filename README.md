@@ -1,3 +1,4 @@
+<div  style="text-align:center;">
 <h1 align="center">Hi 👋, I'm Adnan Khateeb</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
@@ -20,3 +21,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnankhateeb&show_icons=true&locale=en&layout=compact" alt="adnankhateeb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnankhateeb&" alt="adnankhateeb" /></p>
+  </div>
