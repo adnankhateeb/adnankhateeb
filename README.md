@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋 My name is Adnan Khateeb</h1>
+<h1 align="center">Hi, I'm Adnan Khateeb <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 <h2 align="center">A Full Stack Web Developer</h2>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&center=true&width=1000&lines=Aspiring+MERN+developer;Passionate+about+creating+great+UX;Always+learning+new+things)](https://git.io/typing-svg)
 ## About me
 * 🌍  I'm based in Jammu, India
 * ✉️  You can contact me at [adnankhateeb21@gmail.com](mailto:adnankhateeb21@gmail.com)
@@ -43,14 +44,4 @@
 <a href="http://www.github.com/adnankhateeb"><img src="https://activity-graph.herokuapp.com/graph?username=adnankhateeb&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </p>
 
-<div align="center">
-<a href="https://github.com/adnankhateeb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnankhateeb&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
- </div>
 
-<b>Top Repositories</b>
-<p align="center">
-<div width="100%" align="center"><a href="https://github.com/adnankhateeb/nykaaWithBackend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adnankhateeb&repo=nykaaWithBackend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/adnankhateeb/shop.com-fw15" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adnankhateeb&repo=shop.com-fw15&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div></p><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/adnankhateeb/weather-app-minimal" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adnankhateeb&repo=weather-app-minimal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/adnankhateeb/minimal-food-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adnankhateeb&repo=minimal-food-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
