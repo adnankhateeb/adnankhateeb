@@ -9,6 +9,10 @@
 * 🧠  I'm learning ReactJS
 * ⚡  Very excited about NextJS
 
+<p align="center"> <img
+      src="https://komarev.com/ghpvc/?username=adnankhateeb&label=Profile%20views&color=0e75b6&style=flat"
+      alt="zeeshan-nasir" /> </p>
+
 <h1>Skills</h1>
 
 <p align="center">
