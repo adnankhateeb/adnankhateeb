@@ -3,6 +3,8 @@
 <h2 align="center">A Full Stack Web Developer</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&center=true&width=1000&lines=Aspiring+MERN+developer;Passionate+about+creating+great+UX;Always+learning+new+things)](https://git.io/typing-svg)
+<div align="center">Self-driven, quick starter, passionate programmer with a curious mind who enjoys solving complex and challenging real-world problems.</div>
+
 ## About me
 * 🌍  I'm based in Jammu, India
 * ✉️  You can contact me at [adnankhateeb21@gmail.com](mailto:adnankhateeb21@gmail.com)
@@ -11,7 +13,7 @@
 
 <p align="center"> <img
       src="https://komarev.com/ghpvc/?username=adnankhateeb&label=Profile%20views&color=0e75b6&style=flat"
-      alt="zeeshan-nasir" /> </p>
+      alt="adnan-khateeb" /> </p>
 
 <h1>Skills</h1>
 
