@@ -10,7 +10,7 @@
 * ✉️  You can contact with me at [adnankhateeb21@gmail.com](mailto:adnankhateeb21@gmail.com)
 * 🧠  I'm learning ReactJS
 * ⚡  Very excited about NextJS
-* 📄  My <a href="https://adnan-khateeb-portfolio.netlify.app/">Portfolio</a>
+* 📄   My <a href="https://adnan-khateeb-portfolio.netlify.app/">Portfolio</a>
 
 <p align="center"> <img
       src="https://komarev.com/ghpvc/?username=adnankhateeb&label=Profile%20views&color=0e75b6&style=flat"
