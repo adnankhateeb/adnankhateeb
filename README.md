@@ -8,7 +8,7 @@
 ## About me
 * 🌍  I'm based in Jammu, India
 * ✉️  You can contact with me at [adnankhateeb21@gmail.com](mailto:adnankhateeb21@gmail.com)
-* 🧠  I'm learning ReactJS
+* 🧠  MERN Stack Developer
 * ⚡  Very excited about NextJS & Partytown 🎉
 * 📄   My <a href="https://adnan-khateeb-portfolio.netlify.app/">Portfolio</a>
 
